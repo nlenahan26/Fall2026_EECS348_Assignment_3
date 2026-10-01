@@ -1,0 +1,10 @@
+EMAIL Boss,First Boss Email,01-01-2025
+EMAIL Boss,Second Boss Email,02-01-2025
+EMAIL Peer,Peer Email,03-01-2025
+COUNT
+NEXT
+NEXT
+READ
+READ
+COUNT
+NEXT
